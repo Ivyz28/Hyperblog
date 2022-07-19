@@ -11,5 +11,6 @@ Un blog increíble para el curso de Git y Github de Platzi
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 *creado por la increible Ivana garcia :D
-
+*incluye ejemplo en windows, linux y mac.
+*disponible en todos los idiomas
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
